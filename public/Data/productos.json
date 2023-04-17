@@ -7,7 +7,7 @@
         "modelo": "22-dd0520la",
         "precio": 11995,
         "stock": 40,
-        "img": "img/allinoneHP.jpg"
+        "img": "/img/allinoneHP.jpg"
 
 },
    {
@@ -18,7 +18,7 @@
         "version": "23",
         "precio": 3474,
         "stock": 20,
-        "img": "img/archicad.jpg"
+        "img": "/img/archicad.jpg"
 
 },
   {
@@ -29,7 +29,7 @@
         "version": "2023",
         "precio": 26213,
         "stock": 30,
-        "img": "img/autocad.jpg"
+        "img": "/img/autocad.jpg"
 
 },
 {
@@ -40,7 +40,7 @@
         "modelo": "DH-HAC-T2A21",
         "precio": 1950,
         "stock": 28,
-        "img": "img/dahua.jpg"
+        "img": "/img/dahua.jpg"
 
 },
 {
@@ -51,7 +51,7 @@
         "modelo": "Optiplex 7040",
         "precio": 6200,
         "stock": 35,
-        "img": "img/dell.jpg"
+        "img": "/img/dell.jpg"
 
 },
 {
@@ -62,7 +62,7 @@
         "modelo": "SU800",
         "precio": 839,
         "stock": 50,
-        "img": "img/discoadata.jpg"
+        "img": "/img/discoadata.jpg"
 
 },
 
@@ -74,7 +74,7 @@
         "modelo": "HD710P",
         "precio": 1329,
         "stock": 10,
-        "img": "img/discoduroexterno.jpg"
+        "img": "/img/discoduroexterno.jpg"
 
 },
 {
@@ -85,7 +85,7 @@
         "modelo": "DS-2CD2143G2-I(S)",
         "precio": 2519,
         "stock": 5,
-        "img": "img/domohikvision.jpg"
+        "img": "/img/domohikvision.jpg"
 
 },
 {
@@ -96,7 +96,7 @@
         "modelo": "DS2CE17D0TIT5FC",
         "precio": 669,
         "stock": 6,
-        "img": "img/hikvision.jpg"
+        "img": "/img/hikvision.jpg"
 
 },
 
@@ -108,18 +108,18 @@
         "modelo": "A400",
         "precio": 839,
         "stock": 8,
-        "img": "img/kingstonssd.jpg"
+        "img": "/img/kingstonssd.jpg"
 
 },
 {
   "id": 11,
-        "idCategoria": 3,
-        "nombre": "Disco Duro SSD 960GB",
-        "marca": "Kingston",
-        "modelo": "XVR1B04H-I y 4x B2A51",
-        "precio": 3900,
+        "idCategoria": 2,
+        "nombre": "Dahua Kit de Vigilancia de 4 Cámaras CCTV Bullet y 4 Canales, con Grabadora, Cables Siamés, Pulpo y Fuente de Poder ",
+        "marca": "Dahua",
+        "modelo": "XVR1B04-I1MP",
+        "precio": 2129,
         "stock": 4,
-        "img": "img/kitdahua.jpg"
+        "img": "/img/kitdahua.jpg"
 
 },
 {
@@ -130,7 +130,7 @@
         "modelo": "A340-24IGM",
         "precio": 8400,
         "stock": 5,
-        "img": "img/lenovo.jpg"
+        "img": "/img/lenovo.jpg"
 
 },
 {
@@ -141,7 +141,7 @@
         "modelo": "MK442LL",
         "precio": 11000,
         "stock": 7,
-        "img": "img/mac.jpg"
+        "img": "/img/mac.jpg"
 
 },
 {
@@ -152,7 +152,7 @@
         "modelo": "WD10EZEX",
         "precio": 743,
         "stock": 12,
-        "img": "img/western.jpg"
+        "img": "/img/western.jpg"
 
 },
 {
@@ -163,7 +163,7 @@
         "version": "2021",
         "precio": 546,
         "stock": 25,
-        "img": "img/microsoftoffice.jpg"
+        "img": "/img/microsoftoffice.jpg"
 
 },
 {
@@ -174,7 +174,7 @@
         "version": "2022",
         "precio": 7200,
         "stock": 30,
-        "img": "img/opus.jpg"
+        "img": "/img/opus.jpg"
 
 }
 ]
